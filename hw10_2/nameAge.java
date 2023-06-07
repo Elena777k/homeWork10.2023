@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class nameAge {
+public class NameAge {
 
     public static void main(String[] args) throws FileNotFoundException {
 
